@@ -25,6 +25,7 @@ Although this is a physical embedded system project, all source code, system des
 
 **Hardware Components
 **
+
 Arduino Uno
 -Ultrasonic Sensor HC-SR04 (2 units)
 -Servo Motor
@@ -34,6 +35,7 @@ Arduino Uno
 
 
 **Software & Tools**
+
 Arduino IDE
 Arduino Servo Library
 GitHub (version control & documentation)
