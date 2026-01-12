@@ -23,8 +23,7 @@ Although this is a physical embedded system project, all source code, system des
 -Ultrasonic Sensor 2 measures the trash level inside the bin.
 -If the measured distance indicates a full condition, a buzzer is activated as an alert.
 
-**Hardware Components
-**
+**Hardware Components**
 
 Arduino Uno
 -Ultrasonic Sensor HC-SR04 (2 units)
